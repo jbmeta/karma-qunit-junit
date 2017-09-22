@@ -13,9 +13,9 @@
     1) You'll require NPM(https://nodejs.org/en/download/) to use Karma.
     2) Go to the project folder and npm init.
     3) Install all the required modules with this 
-    ```npm i qunit karma karma-qunit karma-junit-reporter karma-chrome-launcher --save-dev```.
+    **npm i qunit karma karma-qunit karma-junit-reporter karma-chrome-launcher --save-dev**.
     
     4) If you want to re-create the karma configuration file run 
-    ```karma init 'name-of-file.conf.js'``` and follow prompt.
+    **karma init 'name-of-file.conf.js'** and follow prompt.
     
-    5) Run Karma with ```karma start 'name-of-file.conf.js'```.
+    5) Run Karma with **karma start 'name-of-file.conf.js'**.
