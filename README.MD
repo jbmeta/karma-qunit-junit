@@ -1,4 +1,4 @@
-### This app is meant to be a simple tutorial for using Karma Test Runner for executing QUnit tests in your JavaScript Application.
+#### This app is meant to be a simple tutorial for using Karma Test Runner for executing QUnit tests in your JavaScript Application.
 
 ## What does this app do?
 > This app runs a simple QUnit test using Karma and captures test results in a file in JUnit format.
